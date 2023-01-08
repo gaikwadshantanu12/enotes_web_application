@@ -1,0 +1,30 @@
+/* Header JSP File */
+
+.bg-custom {
+	background: #8e24aa;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	background: white;
+	color: black;
+	border-radius: 10px;
+}
+
+
+/* Register JSP File */
+
+/*
+.bg-custom {
+	background: #8e24aa;
+}
+*/
+
+.div-color {
+	background-image: linear-gradient(to right top, #ed6700, #ec9000, #d9d828, #c8f95a);
+	height: 669px;
+}
