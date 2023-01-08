@@ -1,4 +1,4 @@
-# Output / Screenshots
+# Outputs
 ![](https://github.com/gaikwadshantanu12/enotes_web_application/blob/master/src/main/webapp/files_images/outputs/1.png)
 
 ![](https://github.com/gaikwadshantanu12/enotes_web_application/blob/master/src/main/webapp/files_images/outputs/2.png)
